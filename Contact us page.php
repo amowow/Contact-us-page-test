@@ -15,5 +15,5 @@ if($Email !=null){
 }
 // getting them to thank you page
 
-header("Location: Thank_you page.html")
+$header("Location: Thank_you page.html")
 ?>
